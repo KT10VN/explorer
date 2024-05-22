@@ -11,10 +11,10 @@
       By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://ping.pub"
+        href="https://kt10vip.xyz"
         target="_blank"
         rel="noopener noreferrer"
-        >Ping.pub</a
+        >kt10vip.xyz</a
       >
     </div>
     <div
@@ -22,15 +22,15 @@
     >
       <a
         class="link link-primary no-underline mr-4"
-        href="https://github.com/ping-pub/explorer/blob/master/LICENSE"
+        href="https:github.com/KT10VN"
         target="noopener noreferrer"
-        >License</a
+        >Github</a
       >
       <a
         class="link link-primary no-underline"
-        href="https://github.com/ping-pub/explorer"
+        href="https://github.com/KT10VN/explorer"
         target="noopener noreferrer"
-        >Github</a
+        >explorer</a
       >
     </div>
   </footer>
