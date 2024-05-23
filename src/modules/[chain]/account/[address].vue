@@ -18,7 +18,7 @@ import type {
   DelegatorRewards,
   UnbondingResponses,
 } from '@/types';
-
+import type { Coin } from '@cosmjs/amino';
 import Countdown from '@/components/Countdown.vue';
 import { fromBase64 } from '@cosmjs/encoding';
 
@@ -32,7 +32,7 @@ const account = ref({} as AuthAccount);
 const txs = ref({} as TxResponse[]);
 const delegations = ref([] as Delegation[]);
 const rewards = ref({} as DelegatorRewards);
-
+const balances = ref([] as Coin[]);
 const recentReceived = ref([] as TxResponse[]);
 const unbonding = ref([] as UnbondingResponses[]);
 const unbondingTotal = ref(0);
