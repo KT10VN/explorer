@@ -321,7 +321,7 @@ dayjs()
           <div
             class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
-            FAQ
+            Telegram
           </div>
         </a>
       </div>
