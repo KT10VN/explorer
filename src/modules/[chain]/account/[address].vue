@@ -18,7 +18,7 @@ import type {
   DelegatorRewards,
   UnbondingResponses,
 } from '@/types';
-import type { Coin } from '@cosmjs/amino';
+
 import Countdown from '@/components/Countdown.vue';
 import { fromBase64 } from '@cosmjs/encoding';
 
