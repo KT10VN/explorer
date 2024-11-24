@@ -13,7 +13,7 @@
     {
       "symbol": "XKP",
       "base": "uXKP",
-      "exponent": 6,
+      "exponent": "6",
       "logo": "/logos/kopi.jpg"
     }
   ]
