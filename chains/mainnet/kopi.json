@@ -2,13 +2,13 @@
   "chain_name": "Kopi-Mainet",
      "api": [
         {
-            "address": "address":"https://kopi-api.node39.top", 
+            "address":"https://kopi-api.node39.top", 
             "provider": "Node39"
         }
     ], 
     "rpc": [
         {
-            "address": "address":"https://kopi-rpc.node39.top", 
+            "address":"https://kopi-rpc.node39.top", 
             "provider": "Node39"
         }
     ],
