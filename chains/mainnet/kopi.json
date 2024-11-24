@@ -1,7 +1,7 @@
 {
   "chain_name": "Kopi-Mainet",
-  "api": ["https://kopi-testnet-api.node39.top"],
-  "rpc": ["https://kopi-testnet-rpc.node39.top"],
+  "api": ["address":"https://kopi-api.node39.top"],
+  "rpc": ["address":"https://kopi-rpc.node39.top"],
   "sdk_version": "0.47.3",
   "snapshot_provider": "",
   "coin_type": "118",
