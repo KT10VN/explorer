@@ -17,12 +17,12 @@
     "coin_type": "118",
     "min_tx_fee": "2000",
     "addr_prefix": "air",
-    "logo": "/logos/airchain.svg",
+    "logo": "/logos/airchain.jpeg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "amf",
         "symbol": "AMF",
         "exponent": "6",
-        "logo": "/logos/airchain.svg"
+        "logo": "/logos/airchain.jpeg"
     }]
 }
