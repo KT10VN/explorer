@@ -276,7 +276,7 @@ function selected(route: any, nav: NavLink) {
 
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
         <a
-          href="https://twitter.com/validator247"
+          href="https://x.com/thientranKT10"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
@@ -300,7 +300,7 @@ function selected(route: any, nav: NavLink) {
           </div>
         </a>
         <a
-          href="https://t.me/Validator247"
+          href="https://t.me/kt10vip"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
