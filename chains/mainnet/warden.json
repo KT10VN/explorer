@@ -20,7 +20,7 @@
     "logo": "/logos/warden.svg",
     "theme_color": "#812cd6",
     "assets": [{
-        "base": "uward",
+        "base": "ward",
         "symbol": "WARD",
         "exponent": "6",
         "logo": "/logos/warden.svg"
