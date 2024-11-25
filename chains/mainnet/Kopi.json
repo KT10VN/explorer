@@ -22,7 +22,7 @@
   "assets": [
     {
       "symbol": "XKP",
-      "base": "uXKP",
+      "base": "XKP",
       "exponent": "6",
       "logo": "/logos/kopi.jpg"
     }
