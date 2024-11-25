@@ -17,12 +17,12 @@
     "coin_type": "60",
     "min_tx_fee": "1000",
     "addr_prefix": "gala",
-    "logo": "/logos/galactica.svg",
+    "logo": "/logos/galactica.jpeg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "agnet",
         "symbol": "GNET",
         "exponent": "18",
-        "logo": "/logos/galactica.svg"
+        "logo": "/logos/galactica.jpeg"
     }]
 }
