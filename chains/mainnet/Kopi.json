@@ -1,0 +1,30 @@
+{
+  "chain_name": "Kopi-Mainet",
+     "api": [
+        {
+            "address":"https://kopi-api.node39.top", 
+            "provider": "Node39"
+        }
+    ], 
+    "rpc": [
+        {
+            "address":"https://kopi-rpc.node39.top", 
+            "provider": "Node39"
+        }
+    ],
+  "sdk_version": "0.47.3",
+  "snapshot_provider": "",
+  "coin_type": "118",
+  "addr_prefix": "XKP",
+  "min_tx_fee": "2000",
+  "logo": "/logos/kopi.jpg",
+  "theme_color": "#812cd6",
+  "assets": [
+    {
+      "symbol": "XKP",
+      "base": "uXKP",
+      "exponent": "6",
+      "logo": "/logos/kopi.jpg"
+    }
+  ]
+}
