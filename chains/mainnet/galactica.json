@@ -2,13 +2,13 @@
     "chain_name": "galactica-testnet",
     "api": [
         {
-            "address": "https://galactica-testnet-api.validator247.com", 
+            "address": "https://galactica-testnet-api.node39.top", 
             "provider": "Validator247"
         }
     ], 
     "rpc": [
         {
-            "address": "https://galactica-testnet-rpc.validator247.com", 
+            "address": "https://galactica-testnet-rpc.node39.top", 
             "provider": "Validator247"
         }
     ],
@@ -17,12 +17,12 @@
     "coin_type": "60",
     "min_tx_fee": "1000",
     "addr_prefix": "gala",
-    "logo": "/logos/galactica.jpeg",
+    "logo": "/logos/galactica.svg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "agnet",
         "symbol": "GNET",
         "exponent": "18",
-        "logo": "/logos/galactica.jpeg"
+        "logo": "/logos/galactica.svg"
     }]
 }
